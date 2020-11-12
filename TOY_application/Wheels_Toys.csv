@@ -1,0 +1,8 @@
+Toy_Id,Toy_Name,toy_type,Min_Age,Max_Age,Price,Quantity,Rental_Amount
+107,Little Tikes Shopping Cart,Wheels,1,3,16,50,2
+116,Melissa & Doug Chomp & Clack Alligator Push Toy,Wheels,1,3,20,48,3
+145,PLAYMOBIL® Scooby-DOO! Mystery Machine,Wheels,5,8,47,56,2
+147,HABA Little Friends Vacation Camper Play Set,Wheels,5,8,20,15,1
+148,LEGO Creator 3-in-1 Monster Burger Truck,Wheels,5,8,21,88,3
+149,PLAYMOBIL® Back to The Future Delorean,Wheels,5,8,18,10,1
+150,Kid Trax Semi-Truck & Trailer Ride-On Toy,Wheels,5,8,60,0,2

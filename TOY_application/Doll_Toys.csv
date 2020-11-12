@@ -1,0 +1,8 @@
+Toy_Id,Toy_Name,toy_type,Min_Age,Max_Age,Price,Quantity,Rental_Amount
+129,Kindi Kids Snack Time Friends, Marsha Mello,Doll,3,5,26,30,1
+130,Kco Brands Bouncing Unicorn,Doll,3,5,45,23,1
+132,Baby Alive Happy Hungry Baby,Doll,3,5,41,48,2
+141,American Girl Courtney Doll & Book,Doll,5,8,50,44,3
+152,HABA Little Friends Camping Play Set,Doll,5,8,65,89,5
+153,Mattel Minions Babble Otto Large Interactive Toy,Doll,5,8,45,65,2
+163,Exploding Kittens Throw Throw Burrito Game,Doll,8,12,89,10,5

@@ -1,0 +1,69 @@
+Toy_Id,Toy_Name,toy_type,Min_Age,Max_Age,Price,Quantity,Rental_Amount
+101,Mega Bloks 80-Piece Big Building Bag,Craft,1,3,15,150,2
+102,Alex Toys Button Art Activity Set,Craft,1,3,10,100,3
+103,VTech KidiBeats Kids Drum Set,Electronic,1,3,10,250,1
+104,Hide N Side Ball Pit- Play Tent and Tunnels,Activity,1,3,15,100,2
+105,Melissa & Doug Pet Vet Play Set,Activity,1,3,20,450,3
+106,LeapFrog Number Lovin' Oven,Kitchen,1,3,8,264,1
+107,Little Tikes Shopping Cart,Wheels,1,3,16,50,2
+108,Moonlite Eric Carle Junior Starter Pack,Electronic,1,3,28,50,5
+109,Sesame Street Love to Hug Elmo,Teddy,1,3,11,45,2
+110,Radio Flyer Inc. 3-In-1 EZ Folding Wagon,Baby Car,1,3,23,50,5
+111,Fisher-Price Laugh & Learn Servin' Up Fun Food Truck,Baby Car,1,3,21,140,3
+112,Melissa & Doug Slice and Bake Cookie Set,Kitchen,1,3,19,50,2
+113,Fisher-Price Linkimals Smooth Moves Sloth,Electronic,1,3,15,150,2
+114,VTech Mix and Match-a-Saurus,Electronic,1,3,22,100,1
+115,LeapFrog Learning Friends 100 Words Book,Education,1,3,11,50,2
+116,Melissa & Doug Chomp & Clack Alligator Push Toy,Wheels,1,3,20,48,3
+117,Radio Flyer 4-in-1 Stroll 'N Trike,Cycle,1,3,50,20,5
+118,Learning Resources Spike the Fine Motor Hedgehog,Electronic,1,3,12,50,1
+119,Little Tikes Activity Garden Baby Playset,Craft,1,3,20,50,1
+120,Fat Brain Toys Shape Factory,Craft,1,3,15,50,2
+121,Manhattan Toy Tree Top Adventure Activity Center,craft,1,3,15,50,2
+122,Learning Resources Smart Snacks Number Pops,Electronic,1,3,16,50,2
+123,Petit Collage Floor Puzzle-Our World,Puzzle,1,3,20,50,3
+124,ETI Toys Original 101-Piece Educational,Built,3,5,30,30,1
+125,Fat Brain Toys Squigz Starter Set - 24 pc,Activity,3,5,20,78,2
+126,ToyVelt Dinosaur Take Apart Toys,Activity,3,5,45,89,5
+127,Osmo Little Genius Starter Kit for iPad,Activity,3,5,56,10,4
+128,Dynacraft Simba Plush Ride On,Activity,3,5,30,50,2
+129,Kindi Kids Snack Time Friends- Marsha Mello,Doll,3,5,26,30,1
+130,Kco Brands Bouncing Unicorn,Doll,3,5,45,23,1
+131,Play-Doh Stamp 'n Top Pizza Oven Toy,Kitchen,3,5,20,50,3
+132,Baby Alive Happy Hungry Baby,Doll,3,5,41,48,2
+133,Intex Playhouse Jump-O-Lene Inflatable Bouncer,Activity,3,5,60,69,1
+134,Hape Master Workbench,Activity,3,5,36,29,4
+135,Fat Brain Toys Squigz Starter Set - 24 pc- Our World,Activity,3,5,50,26,3
+136,LEGO Super Mario Adventures with Mario Starter Course,Activity,5,8,35,33,2
+137,Blockaroo Magnetic Foam Builders,Built,5,8,20,10,2
+138,HEXBUG JUNKBOTS Dumpster Kit,Activity,5,8,50,50,3
+139,Fisher Price Laugh & Learn Grow-the-Fun Garden to Kitchen,Kitchen,5,8,20,22,1
+140,Blue's Clues Peek-A-Boo 10-inch Plush,Electronic,5,8,23,32,2
+141,American Girl Courtney Doll & Book,Doll,5,8,50,44,3
+142,Learning Resources Botley the Coding Robot 2.0 Activity Set,Activity,5,8,39,50,4
+143,VTech KidiZoom Creator Cam,Electronic,5,8,16,45,2
+144,Treasure X Sunken Gold Treasure Ship Playset,Activity,5,8,45,49,1
+145,PLAYMOBIL® Scooby-DOO! Mystery Machine,Wheels,5,8,47,56,2
+146,LEGO DOTS Creative Picture Frames,Activity,5,8,45,25,5
+147,HABA Little Friends Vacation Camper Play Set,Wheels,5,8,20,15,1
+148,LEGO Creator 3-in-1 Monster Burger Truck,Wheels,5,8,21,88,3
+149,PLAYMOBIL® Back to The Future Delorean,Wheels,5,8,18,10,1
+150,Kid Trax Semi-Truck & Trailer Ride-On Toy,Wheels,5,8,60,0,2
+151,Ravensburger Disney Hocus Pocus: The Game,Game,5,8,50,13,1
+152,HABA Little Friends Camping Play Set,Doll,5,8,65,89,5
+153,Mattel Minions Babble Otto Large Interactive Toy,Doll,5,8,45,65,2
+154,Crayola Build A Beast Craft Kits,Activity,5,8,60,20,3
+155,3Doodler Start Make Your Own HEXBUG Creature 3D Pen Set,Activity,5,8,54,60,3
+156,ALEX Toys Spa Hair Chalk Salon,Activity,8,12,60,20,3
+157,Mpow 059 Bluetooth Headphones,Electronic,8,12,60,20,3
+158,Kan Jam Ultimate Disc Game Set,Game,8,12,60,20,3
+159,Ravensburger The Earth 540 Piece 3D Jigsaw Puzzle,puzzle,8,12,60,20,3
+160,3Doodler Start Make Your Own HEXBUG Creature 3D Pen Set,Activity,8,12,58,98,1
+161,UncommonGoods Kid's Global Adventure Cooking Kit,Kitchen,8,12,48,80,2
+162,4M Kitchen Science Kit,Kitchen,8,12,60,20,3
+163,Exploding Kittens Throw Throw Burrito Game,Doll,8,12,89,10,5
+164,Amazon Echo Dot Kids Edition,Electronic,8,12,60,30,1
+165,Klutz LEGO Make Your Own Movie Activity Kit,Activity,8,12,54,10,5
+166,Catan Studio Catan The Board Game,Game,8,12,70,56,1
+167,Tosing Wireless Karaoke Microphone,Electronic,8,12,100,26,5
+168,Etsy Paint Your Own Bath Bombs Kit,Activity,8,12,60,20,5
